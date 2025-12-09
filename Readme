@@ -1,0 +1,64 @@
+Facility Layout Optimization – Usha Martin
+Project Overview
+This project applies Systematic Layout Planning (SLP) to optimize the facility layout of Usha Martin’s Ranchi plant, which manufactures steel wires, cables, and strands. The objective is to reduce material handling costs, improve workflow efficiency, and enhance safety and flexibility.
+
+Objectives: 
+Minimize material handling distance and cost.
+
+Improve adjacency satisfaction between critical departments.
+
+Ensure safety compliance in heat treatment and galvanizing areas.
+
+Provide flexibility for future expansion.
+
+Departments Considered:
+Raw Material Yard
+
+Wire Drawing Section
+
+Stranding Section
+
+Cable Manufacturing Section
+
+Heat Treatment & Galvanizing
+
+Quality Control Lab
+
+Finished Goods Warehouse
+
+Utilities
+
+Administration & Offices
+
+Methodology:
+Problem Definition – Scope, constraints, and objectives.
+
+REL Chart (AEIOU Ratings) – Captures interdepartmental relationships.
+
+From–To Chart – Quantifies material flow between departments.
+
+Load–Distance Analysis – Evaluates efficiency of layouts.
+
+Block Layout Alternatives – Linear, U-shaped, and cellular layouts.
+
+Evaluation & Selection – Weighted scoring based on adjacency, cost, safety, and flexibility.
+
+Sample Data:
+Flow Intensity: Raw Material → Wire Drawing = 120 tons/day.
+
+Space Requirements: Wire Drawing Section = 3,000 m².
+
+REL Chart Example: Wire Drawing ↔ Stranding = E (Especially Important).
+
+Tools & Techniques:
+Systematic Layout Planning (SLP) framework.
+
+REL chart scoring (AEIOU).
+
+Load–distance formula:
+
+Objective
+=
+∑(Load)(Distance)
+
+Weighted evaluation matrix for layout alternatives.
