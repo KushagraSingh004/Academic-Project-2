@@ -1,0 +1,56 @@
+
+1. Purpose of Evaluation
+The objective now is to compare the baseline linear layout with three alternative arrangements—U‑shaped, Cellular, and Block layouts—using both quantitative (load–distance cost) and qualitative (adjacency, compactness, supervision ease) criteria. This evaluation ensures that the final recommendation is not only cost‑efficient but also practical in terms of workflow and space utilization.
+
+2. Quantitative Comparison
+The total transport effort for each layout was calculated by multiplying the From–To flows (tons/day) with rectilinear distances (m). Results are summarized below:
+
+Layout Type	Total|Load–Distance (ton·m/day)
+Baseline Linear|3850
+U‑Shaped|4250
+Cellular|4250
+Block (Functional)|3850
+The baseline linear layout produced a cost of 3850 ton·m/day.
+
+Both the U‑shaped and Cellular layouts increased the cost to 4250 ton·m/day, primarily due to longer Cable → Heat Treatment distances.
+
+The Block layout matched the baseline cost (3850 ton·m/day), indicating no increase in transport effort.
+
+3. Qualitative Evaluation
+Beyond numerical results, qualitative factors were considered:
+
+Baseline Linear Layout:
+
+Advantages: Simple, easy to expand, straightforward material flow.
+
+Disadvantages: Long line of departments, inefficient supervision, poor space utilization.
+
+U‑Shaped Layout:
+
+Advantages: Classic design, reduces backtracking in some cases.
+
+Disadvantages: Increased distance between Cable and Heat Treatment, higher transport cost, less efficient for this flow pattern.
+
+Cellular Layout:
+
+Advantages: Supports lean manufacturing, modular grouping of departments.
+
+Disadvantages: Did not reduce transport cost in this case, complexity in grouping flows.
+
+Block Layout:
+
+Advantages: Compact arrangement, improved adjacency (Cable ↔ Heat Treatment, QC ↔ Finished Goods), easier supervision.
+
+Disadvantages: Requires careful space planning to avoid congestion.
+
+4. Final Recommendation
+Based on the combined quantitative and qualitative evaluation:
+
+The Block layout emerges as the most practical alternative.
+
+It achieves the same load–distance cost as the baseline (3850 ton·m/day) while improving adjacency and compactness.
+
+The U‑shaped and Cellular layouts, though conceptually strong, are less efficient for this specific flow pattern.
+
+5. Conclusion
+The evaluation demonstrates that layout design must balance numerical efficiency with practical considerations of adjacency, supervision, and space utilization. While the baseline linear layout provides a simple benchmark, the Block layout offers a superior arrangement by maintaining cost efficiency and enhancing workflow. Therefore, the Block layout is recommended as the final design for this facility.
